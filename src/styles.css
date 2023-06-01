@@ -43,7 +43,7 @@ body {
 	font-family: Arial, sans-serif;
 }
 
-:global(.img-contain) {
+/* :global(.img-contain) {
     display: block;
     object-fit: contain;
 	object-position: center;
@@ -63,7 +63,7 @@ body {
     outline: none;
     background: none;
     cursor: pointer;
-}
+} */
 
 
 /* characters */
