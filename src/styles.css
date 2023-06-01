@@ -152,7 +152,7 @@ body {
 
 
 /* error */
-import { ROOT_INDEX } from './constants/root.js';
+import  ROOT_INDEX from './constants/root.js';
 
 import classes from './Error.css';
 
